@@ -1,7 +1,7 @@
 # hello-tianjin
 container of ideas
 Hi you!
-I want to learn c++ and more langurages, such as English!
+I want to learn c++ and more languages, such as English!
 
 表情包  meme
 C为主咖  I am not a person to be ignored.
