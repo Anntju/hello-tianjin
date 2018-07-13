@@ -255,3 +255,9 @@ be based on.. 基于
 be hooked on 被钩住、被迷住
 be called on 被迫做..
 be passed on 被传递
+
+L4-unit2-part1
+There is no longer any doubt that this is happening.
+【语法点】
+There is no doubt that ... 是无疑的。
+that在这个句子里引导的是同位语从句。同位语从句是指在复合句中跟在名词后面，充当名词同位语的句子，它是对前面的名词起到解释和说明的作用。
