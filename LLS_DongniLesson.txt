@@ -372,3 +372,79 @@ Europe and the US are seperated by several time zones.
 
 
 Is there anything else you like?
+
+L2-unit3-part1
+If the Earth were closer to the Sun， our planet would be hotter.
+【语法点】
+虚拟语气
+一、表示与现在事实相反的情况：
+从句：If 主语+过去时(Be动词用were)
+主句：主语+should/would/could/might+do
+eg：　
+1．If I were you,I would take an umbrella.
+如果我是你，我会带把伞。（事实：我不可能是你）
+2．If I knew his telephone number,I would tell you.
+如果我知道他的电话号码，我就会告诉你。（事实：不知道）
+3．If there were no air or water,there would be no living things on the earth.
+如果没有水和空气，地球上就不会有生物。(事实：地球上既有空气也有水)
+4．If I had any money with me,I could lend you some.
+如果我带钱了，我就会借给你些。（事实：没有带钱）
+5．If he studied harder,he might pass the exam.
+如果他再努力些，就能通过考试了。（事实：没有努力）
+(注意：一般在虚拟的条件句中无论是第几人称，用到系动词的过去式时，只用were而不用was)
+二、表示与过去事实相反的情况
+从句：If 主语+had+done
+主句：主语+should/would/could/might+have done
+eg：
+1． If I had got there earlier,I should/could have met her. 如果我早到那儿，我就会见到她。
+（事实：去晚了）
+2．If he had taken my advice,he would not have made such a mistake. 如果他听我的劝告的话，就不会犯这样的错误了。
+（事实：没有听我的话）
+3．she looked at me as if I had been a stranger.
+她看我的样子好像我是一个陌生人。（事实：我并非陌生人）　
+三、表示对将来情况的主观推测　　
+    主句：主语+should+do　
+    从句：①if+主语+were to do
+               ②if+主语+should/would/could/might+do
+               ③if+主语+did（动词过去式）/were
+eg：
+1．If he should come here tomorrow,I would talk to him.
+如果他明天来这儿的话，我就跟他谈谈。（事实：来的可能性很小）
+2．If there were a heavy snow next Sunday,we would not go skating.
+如果下周日下大雪，我们就不能去滑冰了。（事实：下雪可能性很小）
+3．If she were to be here next Monday,I would tell her about the matter.
+如果她下周一来这儿的话，我就会告诉她这件事的始末。（事实：来的可能性很小）
+四、 有时，虚拟条件句中，结果主句和条件从句的谓语动作若不是同时发生时，虚拟语气的形式应作相应的调整。这种条件句叫错综条件句。
+     ①从句的动作与过去事实相反，而主句的动作与现在或现在正在发生的事实不符。
+eg：
+If I had worked hard at school,I would be an engineer,too.
+如果我在学校学习刻苦的话，我现在也会成为一个工程师了
+If they had informed us,we would not come here now.
+如果他们通知过我们的话，我们现在就不会来这里了。
+     ②从句的动作与现在事实相反，而主句的动作与过去事实不符。
+如：
+If he were free today,we would have sent him to Beijing.
+如果他今天有空的话，我们会已经派他去北京了。
+If he knew her,he would have greeted her.
+要是他认识她的话，他肯定会去问候她了。
+五、 当虚拟条件句的谓语动词含有were,should,had时，if可以省略，这时条件从句要用倒装语序，即把were,should,had等词置于句首，这种多用于书面语。eg：
+Should he agree to go there,we would send him there.
+要是他答应去的话，我们就派他去。
+Were she here,she would agree with us.
+如果她在这儿的话，她会同意我们的。
+Had he learnt about computers,we would have hired him to work here.
+如果他懂一些电脑知识的话，我们已经聘用他来这里工作了。
+六、非真实条件句中的条件从句有时不表达出来，只暗含在副词、介词短语、上下文或其他方式表示出来，这种句子叫做含蓄条件句，在多数情况下，条件会暗含在短语中，如without…，but for…等　　
+eg：
+But for his help,we would be working now.
+要不是他的帮助，我们还会在工作呢。
+Without your instruction,I would not have made such great progress.
+要是没有你的指导，我不会取得如此大的进步。
+We didn't know his telephone number,otherwise we would have telephoned him.
+我们不知道他的电话号码，否则我们就会给他打电话。
+七、 有时，虚拟条件句中，主、从句可以省略其中的一个，来表示说话人的一种强烈的感情。
+①省略从句
+He would have finished it. 他本该完成了。
+You could have passed this exam. 你本能通过这次考试的。
+
+Banks are where people can deposit or withdraw money.
